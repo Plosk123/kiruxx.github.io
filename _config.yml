@@ -211,7 +211,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_data
 
-_time_zones
+_time_zones: Asia/Seoul
 
 
 # Plugins (previously gems:)
